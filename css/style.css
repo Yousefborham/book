@@ -1,0 +1,24 @@
+.navbar{
+    border-bottom: solid 4px #519cfe ;
+}
+
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(50, 100, 209, 0.6) , rgba(85, 122, 190, 0.6)) 
+    , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#person i{
+
+font-size: 25px;
+color: #519cfe;
+width: 50px;
+
+}
+#person img{
+  
+    width: 80px; height: 80px; border-radius: 80%; vertical-align: middle;
+
+}
